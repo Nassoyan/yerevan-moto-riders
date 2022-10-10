@@ -64,13 +64,13 @@ border-radius: 10px;
     border-radius: 10px;
 }
 .container .riders .content .rider1 {
-    background: url(images/moto1.jpg) center/cover;
+    background: url(moto1.jpg) center/cover;
 }
 .container .riders .content .rider2 {
-    background: url(images/moto2.jpg) 100% 100%/cover;
+    background: url(moto2.jpg) 100% 100%/cover;
 }
 .container .riders .content .rider3 {
-    background: url(images/moto3.jpg) center/cover;
+    background: url(moto3.jpg) center/cover;
 }
 .container .riders .content .rider .name {
     text-align: center;
